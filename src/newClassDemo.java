@@ -5,5 +5,6 @@ public class newClassDemo {
         System.out.println("Demo2");
 
         System.out.println("========");
+        System.out.println("new demo code");
     }
 }
