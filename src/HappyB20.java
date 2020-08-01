@@ -5,5 +5,8 @@ public class HappyB20 {
         System.out.println("B20 is always happy!");
 
         System.out.println("I learn java language in the Cybertek School");
+        
+        System.out.println("Merge and fetch from github");
+        
     }
 }
