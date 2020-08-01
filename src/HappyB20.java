@@ -8,5 +8,9 @@ public class HappyB20 {
         
         System.out.println("Merge and fetch from github");
         
+        System.out.println("2) Merge and fetch from github");
+        
+        System.out.println("3) Merge and fetch from github");
+        
     }
 }
